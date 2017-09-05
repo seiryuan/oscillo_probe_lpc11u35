@@ -1,0 +1,11 @@
+.DS_Store
+Debug/
+Release/
+*.launch
+*.ld
+*.axf
+*.bin
+*.hex
+*.map
+*.d
+*.o
